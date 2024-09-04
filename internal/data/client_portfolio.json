@@ -1,0 +1,12 @@
+[
+  {
+    "_id": { "$oid": "6661c77b343c9f02ad846a9f" },
+    "channel": "yalo",
+    "country": "GV01",
+    "createdDate": "2024-06-06T14:24:23.761Z",
+    "portfolioId": "e0f21806-8dab-4c92-a368-21d417c56909",
+    "customerCode": "d54bf3e1-4e30-4895-8bac-00973da63736",
+    "route": "101106"
+  }
+]
+
