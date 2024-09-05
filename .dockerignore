@@ -1,0 +1,23 @@
+# Ignore files and directories that are not needed in the Docker image
+.vscode/
+.idea/
+
+# ignore dependency directories
+vendor/
+
+# Ignore build files
+*.exe
+*.bin
+*.out
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore documentation and README files
+README.md
+doc/
